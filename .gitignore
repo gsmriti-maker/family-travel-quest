@@ -1,0 +1,8 @@
+node_modules
+.next
+.toolchain
+coords.json
+.env*
+!.env.example
+tsconfig.tsbuildinfo
+next-env.d.ts
